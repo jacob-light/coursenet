@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Input files
+input/*
+
+# Archive
+_Archive/*
